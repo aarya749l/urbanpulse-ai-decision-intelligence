@@ -1,0 +1,5 @@
+google-genai>=1.2.0
+streamlit>=1.38.0
+google-cloud-aiplatform>=1.70.0
+protobuf>=4.25.3
+pandas>=2.2.0
